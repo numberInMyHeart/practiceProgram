@@ -13,6 +13,7 @@ import java.util.concurrent.*;
  * 1.该类测试的是Future和Callable
  * 2.Future不仅是一个泛型类，还是一种模式，表异步执行
  * 3.Callable在线程池中执行，有返回结果，并且返回结果一般被Future给包装起来
+ * 4.future接口的get方法是阻塞等待返回结果
  **/
 public class FutureAndCallable {
     //Callable实现类
