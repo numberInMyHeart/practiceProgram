@@ -96,6 +96,15 @@ public class FutureTaskTest {
          */
 
         doThreadPoll();
+        /**
+         * 1562123423923
+         * tasktask1开始计算
+         * tasktask2开始计算
+         * 29890
+         * 325
+         * 1562123424935
+         * 1012
+         */
 
     }
 }

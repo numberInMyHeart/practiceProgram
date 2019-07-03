@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b5680b-7974-4213-86c9-b3a4b5b10f85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UESTC/multithread/threadpool/FutureAndCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UESTC/multithread/threadpool/FutureAndCallable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UESTC/multithread/threadpool/FutureAndCallable$MyCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UESTC/multithread/threadpool/FutureAndCallable$MyCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UESTC/multithread/threadpool/FutureAndCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UESTC/multithread/threadpool/FutureAndCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UESTC/multithread/threadpool/FutureTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UESTC/multithread/threadpool/FutureTaskTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/UESTC/multithread/threadpool/FutureTaskTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
-              <caret line="79" column="46" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
+              <caret line="105" column="15" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="class#MyCallable#0;class#FutureTaskTest#0" />
@@ -338,12 +335,21 @@
       <option name="presentableId" value="Default" />
       <updated>1561946054462</updated>
       <workItem from="1561946057349" duration="3692000" />
-      <workItem from="1562065465041" duration="7678000" />
+      <workItem from="1562065465041" duration="7828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15892000" />
+    <option name="totallyTimeSpent" value="16042000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -362,7 +368,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
@@ -485,7 +491,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/UESTC/multithread/threadpool/FutureTaskTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
-          <caret line="79" column="46" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
+          <caret line="105" column="15" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="class#MyCallable#0;class#FutureTaskTest#0" />
