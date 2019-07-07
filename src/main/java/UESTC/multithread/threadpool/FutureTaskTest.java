@@ -2,6 +2,7 @@ package UESTC.multithread.threadpool;
 
 import java.util.Random;
 import java.util.concurrent.*;
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @ClassName FutureTaskTest
