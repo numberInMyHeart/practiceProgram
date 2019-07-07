@@ -17,6 +17,5 @@ public class EncodeAndDecode {
     public static void main(String[] args) throws UnsupportedEncodingException {
         String str = new String("abc".getBytes("ISO-8859-1"),"GBK");
         System.out.println(str.trim());
-
     }
 }
