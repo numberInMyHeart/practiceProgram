@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7b5680b-7974-4213-86c9-b3a4b5b10f85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UESTC/multithread/threadpool/FutureTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UESTC/multithread/threadpool/FutureTaskTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UESTC/multithread/threadpool/FutureTaskTest$MyCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UESTC/multithread/threadpool/FutureTaskTest$MyCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UESTC/multithread/threadpool/FutureTaskTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UESTC/multithread/threadpool/FutureTaskTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="e7b5680b-7974-4213-86c9-b3a4b5b10f85" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/UESTC/javase/HashCodeAndEquals.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
               <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/UESTC/javase/EncodeAndDecode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -70,31 +74,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/Java8/jdk1.8.0_181/src.zip!/java/util/concurrent/Future.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2592">
-              <caret line="141" column="28" selection-start-line="141" selection-start-column="28" selection-end-line="141" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/UESTC/multithread/producerconsumer/ProucerConsumer2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/UESTC/multithread/others/TestIncrementClassCode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Java8/jdk1.8.0_181/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="957" column="59" lean-forward="true" selection-start-line="957" selection-start-column="59" selection-end-line="957" selection-end-column="59" />
+              <folding>
+                <element signature="e#36393#36394#0" expanded="true" />
+                <element signature="e#36459#36460#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/main/java/UESTC/multithread/threadpool/FutureAndCallable.java" />
         <option value="$PROJECT_DIR$/src/main/java/UESTC/multithread/threadpool/FutureTaskTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/UESTC/javase/HashCodeAndEquals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UESTC/javase/EncodeAndDecode.java" />
       </list>
     </option>
   </component>
@@ -195,6 +192,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="UESTC" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="prepare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="UESTC" type="462c0819:PsiDirectoryNode" />
+              <item name="javase" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -224,7 +230,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashCodeAndEquals">
+  <component name="RunManager" selected="Application.EncodeAndDecode">
+    <configuration name="EncodeAndDecode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UESTC.javase.EncodeAndDecode" />
+      <module name="prepare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UESTC.javase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FutureAndCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UESTC.multithread.threadpool.FutureAndCallable" />
       <module name="prepare" />
@@ -264,19 +283,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProucerConsumer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UESTC.multithread.producerconsumer.ProucerConsumer2" />
-      <module name="prepare" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UESTC.multithread.producerconsumer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestIncrementClassCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UESTC.multithread.others.TestIncrementClassCode" />
       <module name="prepare" />
@@ -292,11 +298,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EncodeAndDecode" />
         <item itemvalue="Application.HashCodeAndEquals" />
         <item itemvalue="Application.FutureTaskTest" />
         <item itemvalue="Application.FutureAndCallable" />
         <item itemvalue="Application.TestIncrementClassCode" />
-        <item itemvalue="Application.ProucerConsumer2" />
       </list>
     </recent_temporary>
   </component>
@@ -312,12 +318,12 @@
       <updated>1561946054462</updated>
       <workItem from="1561946057349" duration="3692000" />
       <workItem from="1562065465041" duration="9250000" />
-      <workItem from="1562462049617" duration="1577000" />
+      <workItem from="1562462049617" duration="2472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19041000" />
+    <option name="totallyTimeSpent" value="19936000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,7 +338,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -341,14 +347,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32569557" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
@@ -496,6 +502,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
           <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java8/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="957" column="59" lean-forward="true" selection-start-line="957" selection-start-column="59" selection-end-line="957" selection-end-column="59" />
+          <folding>
+            <element signature="e#36393#36394#0" expanded="true" />
+            <element signature="e#36459#36460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UESTC/javase/EncodeAndDecode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
     </entry>
